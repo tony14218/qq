@@ -1,0 +1,88 @@
+<mxfile host="65bd71144e">
+    <diagram id="f8JjBp2o_5u8nXAgkGfg" name="第1頁">
+        <mxGraphModel dx="1130" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="10" width="800" height="730" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="3" vertex="1">
+                    <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="3" vertex="1">
+                    <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" parent="3" vertex="1">
+                    <mxGeometry x="290" y="150" width="498" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="File" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="11" vertex="1">
+                    <mxGeometry width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Edit" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="11" vertex="1">
+                    <mxGeometry x="83" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Options" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="11" vertex="1">
+                    <mxGeometry x="166" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Tools" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="11" vertex="1">
+                    <mxGeometry x="249" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Window" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="11" vertex="1">
+                    <mxGeometry x="332" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Help" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="11" vertex="1">
+                    <mxGeometry x="415" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="logo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" parent="3" vertex="1">
+                    <mxGeometry x="30" y="132.5" width="200" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fontSize=30;" parent="3" vertex="1">
+                    <mxGeometry y="330" width="800" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" parent="3" vertex="1">
+                    <mxGeometry x="145" y="280" width="498" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="File" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="66" vertex="1">
+                    <mxGeometry width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="Edit" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="66" vertex="1">
+                    <mxGeometry x="83" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="Options" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="66" vertex="1">
+                    <mxGeometry x="166" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="Tools" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="66" vertex="1">
+                    <mxGeometry x="249" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="Window" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="66" vertex="1">
+                    <mxGeometry x="332" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="Help" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="66" vertex="1">
+                    <mxGeometry x="415" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" parent="3" vertex="1">
+                    <mxGeometry x="140" y="570" width="498" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="File" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="73" vertex="1">
+                    <mxGeometry width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Edit" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="73" vertex="1">
+                    <mxGeometry x="83" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="Options" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="73" vertex="1">
+                    <mxGeometry x="166" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="Tools" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="73" vertex="1">
+                    <mxGeometry x="249" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="Window" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="73" vertex="1">
+                    <mxGeometry x="332" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="Help" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="73" vertex="1">
+                    <mxGeometry x="415" width="83" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
